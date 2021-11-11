@@ -1,0 +1,4 @@
+:set prompt "\x03BB> "
+:set prompt-cont "\x03BB| "
+:set -interactive-print Text.Pretty.Simple.pPrint
+:set -XOverloadedStrings
