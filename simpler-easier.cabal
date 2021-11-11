@@ -6,7 +6,8 @@ maintainer:         andrea@andreabedini.com
 extra-source-files: CHANGELOG.md
 
 library
-    exposed-modules:  SimplerEasier
+    -- exposed-modules:  SimplerEasier.LC
+    --                 , SimplerEasier.STLC
     build-depends:    base ^>=4.14.3.0
                     , pretty-simple
     hs-source-dirs:   src

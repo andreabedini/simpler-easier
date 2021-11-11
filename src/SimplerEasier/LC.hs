@@ -1,7 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# OPTIONS_GHC -fdefer-type-errors #-}
 
-module SimplerEasier where
+module SimplerEasier.LC where
 
 import Data.List (foldl', union, (\\))
 import Data.String (IsString (..))
